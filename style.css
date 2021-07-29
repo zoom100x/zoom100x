@@ -38,6 +38,7 @@ p{
     margin-top: -50px;
     margin-bottom: -50px;
     width: 300px;
+    z-index: -1;
 }
 @media(max-width: 959px){
     .container{
