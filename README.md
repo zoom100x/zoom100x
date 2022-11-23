@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zoom100x
 - 👀 I’m interested in web developement & Object-oriented programming
-- 🌱 I’m currently learning javascript & flutter
+- 🌱 I’m currently learning flutter
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me mailto:malloud321@gmail.com
 
